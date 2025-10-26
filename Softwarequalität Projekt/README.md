@@ -12,7 +12,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 ### Prerequisites
 
-You need to have **Node.js** (which includes npm) or **Yarn** installed on your system.
+You need to have **Node.js** (which includes npm) installed on your system.
 
 ### Installation Steps
 
@@ -84,3 +84,6 @@ We welcome contributions! If you have suggestions or want to report an issue, pl
 If you use this project as a basis for academic work or a public portfolio, you may cite it as follows (adapt the year and version as necessary):
 
 > Kleinfelder. (2025). *My New React App* (Version 1.0.0). Retrieved from https://github.com/nkleinfelder/Softwarequalit-t
+
+## License
+This Software is licensed under the Apache-2.0 License which can be found in the LICENSE File
