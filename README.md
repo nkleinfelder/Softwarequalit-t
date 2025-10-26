@@ -40,12 +40,8 @@ To run the app in development mode:
     ```bash
     npm run dev
     ```
-* Using **Yarn**:
-    ```bash
-    yarn dev
-    ```
 
-The application will typically be accessible at `http://localhost:5173`, read Command Line Output for more Information. The page will reload when you make changes.
+The application will typically be accessible at `http://localhost:5173`, read Command Line Output for more Information. The page will automatically reload when you make changes.
 
 ### Production Build
 
